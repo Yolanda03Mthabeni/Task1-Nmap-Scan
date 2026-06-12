@@ -1,5 +1,11 @@
 # Basic Network Scanning with Nmap
 
+## Demo Video
+
+The demonstration video for this task is included in this repository.
+
+Link: https://drive.google.com/file/d/1cBZpzSyGF-8W-u5G-ObhNG7aWKLjwxcs/view?usp=drive_link 
+
 ## Objective
 
 The objective of this task was to perform a basic network scan using Nmap to identify open ports and services running on a target machine.
